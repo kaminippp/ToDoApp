@@ -1,7 +1,7 @@
 # ToDoApp
 
 
-This app has been designed to list your todo's. 
+This app has been designed to list your todo's using Reat-native. 
 
 
 This app has a customized clock component created by me.
